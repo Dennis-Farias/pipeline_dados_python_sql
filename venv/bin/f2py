@@ -1,4 +1,4 @@
-#!/home/dennis/pipeline-python-mongo-mysql/venv/bin/python3
+#!/home/dennis/pipeline-python-mongo-mysql/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
